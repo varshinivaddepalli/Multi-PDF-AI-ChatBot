@@ -46,7 +46,7 @@ RAG is a method designed to address knowledge-intensive tasks, particularly in i
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/Multi-PDF-AI-ChatBot.git
+git clone https://github.com/varshinivaddepalli/Multi-PDF-AI-ChatBot
 cd Multi-PDF-AI-ChatBot
 ```
 
