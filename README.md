@@ -22,12 +22,12 @@ RAG is a method designed to address knowledge-intensive tasks, particularly in i
 
 ## 🚀 Features
 
-✅ **Extracts text from PDFs** (text-based & scanned using OCR)
-✅ **Vectorizes text** using FAISS and Hugging Face embeddings
-✅ **Retrieves contextually relevant answers** using a conversational AI model
-✅ **Handles multi-page PDFs** with efficient text splitting
-✅ **Interactive UI with Streamlit** for easy PDF uploads & querying
-✅ **Supports multi-PDF processing for comprehensive analysis**
+✅ Supports multi-PDF uploads (up to 200MB per file)
+✅ Extracts text from both text-based and scanned PDFs using pdfplumber & pytesseract (OCR)
+✅ Processes and extracts structured data from tables for better information retrieval
+✅ Ensures precise responses based only on the question asked without unnecessary information
+✅ Uses FAISS vector search and Mistral-7B for accurate and context-aware answers
+✅ Interactive UI with Streamlit for seamless PDF uploads & querying
 
 ---
 
